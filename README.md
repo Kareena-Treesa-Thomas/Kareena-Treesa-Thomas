@@ -140,11 +140,11 @@
 
 ---
 
-## GitHub Stats
+## GitHub Status
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Kareena-Treesa-Thomas&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=FF6FD8&icon_color=00c9a7&text_color=ffffff&ring_color=e91e8c&include_all_commits=true&count_private=true" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Kareena-Treesa-Thomas&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=FF6FD8&icon_color=00c9a7&text_color=ffffff&ring_color=e91e8c" height="180"/>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kareena-Treesa-Thomas&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=FF6FD8&text_color=ffffff&langs_count=8" height="180"/>
 
