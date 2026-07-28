@@ -48,7 +48,7 @@
 <br/>
 
 ![Python](https://img.shields.io/badge/🐍_Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![AI Engineer](https://img.shields.io/badge/🤖_AI_Engineer-e91e8c?style=for-the-badge)
+![Aspiring AI Engineer](https://img.shields.io/badge/🤖_AI_Engineer-e91e8c?style=for-the-badge)
 ![GSSoC 2026](https://img.shields.io/badge/🌍_GSSoC_2026-00c9a7?style=for-the-badge)
 ![Hackathon Builder](https://img.shields.io/badge/⚡_Hackathon_Builder-ff6f00?style=for-the-badge)
 ![Kerala India](https://img.shields.io/badge/📍_Kerala,_India-6c3483?style=for-the-badge)
